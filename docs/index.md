@@ -7,6 +7,8 @@ hide:
 
 # CMU 05-332/632: Assistive Technology and Accessibility
 
+Test
+
 ## Instructors and Logistics
 
 **Canvas:** [https://canvas.cmu.edu/courses/47948](https://canvas.cmu.edu/courses/47948)  
