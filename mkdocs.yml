@@ -1,0 +1,76 @@
+site_name: "CMU 05-332/632: Accessibility and Assistive Technology"
+
+theme:
+  name: material
+  custom_dir: overrides
+  icon:
+    logo: material/wheelchair-accessibility
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  font:
+    text: quicksand
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.path
+    - announce.dismiss
+
+plugins:
+    - search
+    - markdownextradata
+
+markdown_extensions:
+    - attr_list
+    - pymdownx.emoji:
+          emoji_index: !!python/name:material.extensions.emoji.twemoji
+          emoji_generator: !!python/name:material.extensions.emoji.to_svg
+    - admonition
+    - md_in_html
+    - pymdownx.critic
+    - pymdownx.caret
+    - pymdownx.details
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+        clickable_checkbox: true
+        custom_checkbox: true
+    - pymdownx.tilde
+    - tables
+    - toc:
+        title: On This Page
+        toc_depth: 3
+        permalink: true
+
+nav:
+  - Course Overview: index.md
+  - Syllabus: syllabus.md
+  - Homework: 
+    - homework/index.md
+    - Homework 0: homework/hw0.md
+  - Canvas: https://canvas.cmu.edu/courses/47948
+  #- Slack: slack.md
+
+
+
+
