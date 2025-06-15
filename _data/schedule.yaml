@@ -5,7 +5,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: 'https://docs.google.com/presentation/d/1wOcZd2q8ABVwhcc1va3rFHZ9z_reAyYvIy0GSNV06h0/edit?usp=sharing'
+    link: ''
     name: 'Course Introduction'
   readings:
     - { link: '', name: '' }
@@ -19,8 +19,8 @@
   homework:
     deadline: ''
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW0'
+    numDays: 3
   lecture:
     link: ''
     name: 'Disability and Accessibility'
@@ -50,3 +50,21 @@
     name: ''
     quiz: ''
     slides: ''    
+
+- date: Wed Sep 3
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: ''
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''  
