@@ -1,0 +1,52 @@
+- date: Mon Aug 25
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: 'https://docs.google.com/presentation/d/1wOcZd2q8ABVwhcc1va3rFHZ9z_reAyYvIy0GSNV06h0/edit?usp=sharing'
+    name: 'Course Introduction'
+  readings:
+    - { link: '', name: '' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Wed Aug 27
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Disability and Accessibility'
+  readings:
+    - { link: 'https://dl.acm.org/doi/10.1145/1878803.1878807', name: 'Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology' }
+    # name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''
+
+- date: Mon Sep 1
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Labor Day - No Class'
+  reading:
+    link: ''
+    name: ''
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: ''    

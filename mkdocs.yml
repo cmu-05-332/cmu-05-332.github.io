@@ -9,7 +9,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: grey
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -18,8 +18,8 @@ theme:
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: blue
+      primary: grey
+      accent: indigo
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
@@ -34,6 +34,9 @@ theme:
     - navigation.indexes
     - navigation.path
     - announce.dismiss
+
+extra_css:
+  - stylesheets/custom.css
 
 plugins:
     - search
