@@ -40,7 +40,7 @@ extra_css:
 
 plugins:
     - search
-    - markdownextradata {}
+    - markdownextradata
 
 markdown_extensions:
     - attr_list
