@@ -19,8 +19,8 @@
   homework:
     deadline: ''
     link: ''
-    name: 'HW0'
-    numDays: 3
+    name: ''
+    numDays: 0
   lecture:
     link: ''
     name: 'Disability and Accessibility'
