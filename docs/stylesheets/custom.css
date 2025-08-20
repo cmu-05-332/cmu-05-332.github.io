@@ -129,7 +129,7 @@ a.card:hover {
 }
 
 #schedule table thead,
-#schedule table tbody tr:nth-child(10n+5),
+#schedule table tbody tr:nth-child(2n),
 #schedule table tbody tr:nth-child(10n) {
     border-bottom: 3px #ccc solid;
 }

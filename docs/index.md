@@ -11,7 +11,8 @@ hide:
 
 **Canvas:** [https://canvas.cmu.edu/courses/47948](https://canvas.cmu.edu/courses/47948)  
 **Semester:** Fall 2025  
-**Instructors:** [Patrick Carrington](https://www.patrickcarrington.com) (Office Hours: [By Appointment](https://www.calendly.com/patrickcarrington/officehours), 407 S. Craig St. Room 201)    
+**Instructors:** [Patrick Carrington](https://www.patrickcarrington.com) (Office Hours: [By Appointment](https://www.calendly.com/patrickcarrington/officehours), 407 S. Craig St. Room 201)  
+**Co-Instructor:** [Franklin Mingzhe Li](https://www.franklin-li.com) (Office Hours: By Appointment, 407 S. Craig St. Room 212)        
 **Meeting Time:** Monday / Wednesday 11:00 AM to 12:20 PM  
 **Location:** GHC 4215  
 
