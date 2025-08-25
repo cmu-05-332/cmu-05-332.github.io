@@ -19,8 +19,8 @@
   homework:
     deadline: ''
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW1: Accessible Documents and Presentations'
+    numDays: 3
   lecture:
     link: ''
     name: 'Disability and Accessibility'
@@ -131,7 +131,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: '???'
+    name: 'Focus: Visual Access'
   reading:
     link: ''
     name: ''
@@ -149,7 +149,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Deep Dive: Sight'
+    name: 'Focus: Auditory Access'
   reading:
     link: ''
     name: ''
@@ -167,7 +167,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Deep Dive: Hearing'
+    name: ''
   reading:
     link: ''
     name: ''
@@ -185,7 +185,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Deep Dive: Speech/AAC/Communication'
+    name: 'Focus: Motor Access'
   reading:
     link: ''
     name: ''
@@ -203,7 +203,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Deep Dive: Motor'
+    name: 'Focus: Learning, Neurodiversity, and Cognition'
   reading:
     link: ''
     name: ''
@@ -221,7 +221,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Deep Dive: Neurodiversity'
+    name: 'Focus: Older Adults'
   reading:
     link: ''
     name: ''
@@ -239,7 +239,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Deep Dive: Older Adults'
+    name: ''
   reading:
     link: ''
     name: ''
@@ -347,7 +347,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Hot Topic: Manufacturing, Fabrication, and DIY'
+    name: 'Hot Topic: Transportation and Transit'
   reading:
     link: ''
     name: ''
@@ -365,7 +365,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Hot Topic: Part 2 - Physical Computing and DIY'
+    name: 'Hot Topic: Making, Physical Computing, and DIY'
   reading:
     link: ''
     name: ''
@@ -437,7 +437,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Hot Topic: A11y NOT at work'
+    name: 'Hot Topic: A11y NOT at or FOR work'
   reading:
     link: ''
     name: ''
@@ -455,7 +455,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Hot Topic: Transportation and Transit Access'
+    name: ''
   reading:
     link: ''
     name: ''
@@ -509,7 +509,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Final Project/Presentations'
+    name: 'Final Project'
   reading:
     link: ''
     name: ''
@@ -527,7 +527,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Final Project/Presentations'
+    name: 'Final Project'
   reading:
     link: ''
     name: ''
