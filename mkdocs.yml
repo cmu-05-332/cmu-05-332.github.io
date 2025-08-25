@@ -66,11 +66,12 @@ markdown_extensions:
         permalink: true
 
 nav:
-  - Course Overview: index.md
+  - Home: index.md
+  #- Course Overview: index.md
   - Syllabus: syllabus.md
   - Homework: 
     - homework/index.md
-    - Homework 0: homework/hw0.md
+    #- Homework 1: homework/hw1.md
   - Canvas: https://canvas.cmu.edu/courses/47948
   #- Slack: slack.md
 
