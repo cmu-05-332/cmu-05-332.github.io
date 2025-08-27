@@ -13,9 +13,9 @@ Everyone has various senses and abilities, many of whom do not match your own. W
 
 This is an **individual assignment**. There are two (2) parts for this homework. Your final submission on Canvas will be one PDF file.
 
-A) [**Create an Accessible PDF**](1_pdf.md) \- 25 points
+1) [**Create an Accessible PDF**](1_pdf.md) \- 25 points
 
-B) [**Create an Accessible Presentation**](2_presentation.md) \- 50 points
+2) [**Create an Accessible Presentation**](2_presentation.md) \- 50 points
 
 ## Deadline
 
