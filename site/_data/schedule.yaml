@@ -26,6 +26,7 @@
     name: 'Disability and Accessibility'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/1878803.1878807', name: 'Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology' }
+    - { link: 'https://dl.acm.org/doi/abs/10.1145/3411764.3445412', name: '[Optional] Mack et al. 2021. What Do We Mean by “Accessibility Research”?' }
     # name: ''
   recitation:
     handout: ''

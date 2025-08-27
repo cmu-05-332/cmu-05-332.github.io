@@ -5,7 +5,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1VRaiU3S5-rnbCabHyHba-UwTrJ0opk8JV9g46lT-mg4/edit?usp=sharing'
     name: 'Course Introduction'
   readings:
     - { link: '', name: '' }
@@ -26,6 +26,7 @@
     name: 'Disability and Accessibility'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/1878803.1878807', name: 'Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology' }
+    - { link: 'https://dl.acm.org/doi/abs/10.1145/3411764.3445412', name: '[Optional] Mack et al. 2021. What Do We Mean by “Accessibility Research”?' }
     # name: ''
   recitation:
     handout: ''
@@ -42,9 +43,8 @@
   lecture:
     link: ''
     name: 'Labor Day - No Class'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -60,9 +60,11 @@
   lecture:
     link: ''
     name: 'Disability History - Legal + Social'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://www.ada.gov/resources/disability-rights-guide', name: 'A Guide to Disability Rights Laws' }
+    - { link: 'https://www.youtube.com/watch?v=_pEFsz-84eg', name: '[Video] Heumann nature: The life and legacy of disability rights activist Judy Heumann' }
+    - { link: 'https://www.accessibility.com/blog/what-was-robles-v.-dominos-pizza', name: 'Case 1: Robles Dominos Pizza' }
+    - { link: 'https://www.eeoc.gov/newsroom/united-airlines-pay-850000-disability-discrimination-0', name: 'Case 2: United Airlines Overtime' }
   recitation:
     handout: ''
     name: ''
@@ -78,9 +80,8 @@
   lecture:
     link: ''
     name: 'Assistive Technology'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -96,9 +97,8 @@
   lecture:
     link: ''
     name: 'Digital and Web Accessibility'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -114,9 +114,8 @@
   lecture:
     link: ''
     name: 'Design, Co-Design, and Participatory Design'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -132,9 +131,8 @@
   lecture:
     link: ''
     name: 'Focus: Visual Access'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -150,9 +148,8 @@
   lecture:
     link: ''
     name: 'Focus: Auditory Access'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -168,9 +165,8 @@
   lecture:
     link: ''
     name: ''
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -186,9 +182,8 @@
   lecture:
     link: ''
     name: 'Focus: Motor Access'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -204,9 +199,8 @@
   lecture:
     link: ''
     name: 'Focus: Learning, Neurodiversity, and Cognition'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -222,9 +216,8 @@
   lecture:
     link: ''
     name: 'Focus: Older Adults'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -240,9 +233,8 @@
   lecture:
     link: ''
     name: ''
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -258,9 +250,8 @@
   lecture:
     link: ''
     name: 'Fall Break - No Class'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -276,9 +267,8 @@
   lecture:
     link: ''
     name: 'Fall Break - No Class'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -294,9 +284,8 @@
   lecture:
     link: ''
     name: 'Hot Topic: Accessibility and [Generative] AI'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -312,9 +301,8 @@
   lecture:
     link: ''
     name: 'Hot Topic: Data and Disability'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -330,9 +318,8 @@
   lecture:
     link: ''
     name: 'Hot Topic: Assistive Robots'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -348,9 +335,8 @@
   lecture:
     link: ''
     name: 'Hot Topic: Transportation and Transit'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -366,9 +352,8 @@
   lecture:
     link: ''
     name: 'Hot Topic: Making, Physical Computing, and DIY'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -384,9 +369,8 @@
   lecture:
     link: ''
     name: 'Hot Topic: Accessibility in Video Games and Play'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -402,9 +386,8 @@
   lecture:
     link: ''
     name: 'Hot Topic: Adaptive Sports'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -420,9 +403,8 @@
   lecture:
     link: ''
     name: 'Hot Topic: A11y and the "Global South"'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -438,9 +420,8 @@
   lecture:
     link: ''
     name: 'Hot Topic: A11y NOT at or FOR work'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -456,9 +437,8 @@
   lecture:
     link: ''
     name: ''
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -474,9 +454,8 @@
   lecture:
     link: ''
     name: 'Hot Topic: Medicine and Rehabilitation vs Living with AT'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -492,9 +471,8 @@
   lecture:
     link: ''
     name: 'No Class - Thanksgiving'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -510,9 +488,8 @@
   lecture:
     link: ''
     name: 'Final Project'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''
@@ -528,9 +505,8 @@
   lecture:
     link: ''
     name: 'Final Project'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: '', name: '' }
   recitation:
     handout: ''
     name: ''

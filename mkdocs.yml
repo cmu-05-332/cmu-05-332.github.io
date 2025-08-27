@@ -70,8 +70,11 @@ nav:
   #- Course Overview: index.md
   - Syllabus: syllabus.md
   - Homework: 
-    - homework/index.md
-    #- Homework 1: homework/hw1.md
+    - Homework 1: 
+      - homework/HW1/index.md
+      - Parts: 
+              - 'homework/HW1/1_pdf.md'
+              - 'homework/HW1/2_presentation.md'
   - Canvas: https://canvas.cmu.edu/courses/47948
   #- Slack: slack.md
 
