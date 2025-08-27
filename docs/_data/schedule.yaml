@@ -17,12 +17,12 @@
 
 - date: Wed Aug 27
   homework:
-    deadline: ''
+    deadline: 'September 3rd, 11:59 pm'
     link: ''
     name: 'HW1: Accessible Documents and Presentations'
-    numDays: 3
+    numDays: 2
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/17m3rGDrHkZYTNDSBxAuLFZ47fBjMs59xwuLI20al8zo/edit?usp=sharing'
     name: 'Disability and Accessibility'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/1878803.1878807', name: 'Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology' }
@@ -53,10 +53,10 @@
 
 - date: Wed Sep 3
   homework:
-    deadline: ''
+    deadline: 'September 8 In-Class by 10:59 am'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW2: Assistive Technologies'
+    numDays: 2
   lecture:
     link: ''
     name: 'Disability History - Legal + Social'
@@ -81,7 +81,7 @@
     link: ''
     name: 'Assistive Technology'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/doi/pdf/10.1145/3234695.3236348', name: 'Bennett et al. 2018. Interdependence as a Frame for Assistive Technology Research and Design' }
   recitation:
     handout: ''
     name: ''
@@ -98,7 +98,10 @@
     link: ''
     name: 'Digital and Web Accessibility'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612', name: 'A Primer to Web Accessibility for Designers | by Nicholas Kramer' }
+    - { link: 'https://www.w3.org/TR/WCAG22/', name: 'WCAG 2.2 Standard' }
+    - { link: 'https://www.w3.org/TR/wai-aria/', name: 'WAI-ARIA Standard' }
+    - { link: 'https://www.w3.org/TR/ATAG20/', name: 'Authoring Tool Accessibility Guidelines (ATAG) 2.0 Standard' }
   recitation:
     handout: ''
     name: ''

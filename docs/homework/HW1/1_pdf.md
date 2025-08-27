@@ -10,7 +10,7 @@ You will need to install a copy of Adobe Acrobat Pro DC on your own computer to 
 
 **Adobe Creative Cloud Install Instructions**
 
-1. Go to the Creative Cloud website (https://creativecloud.adobe.com) and click Sign In.  
+1. Go to the [Creative Cloud website](https://creativecloud.adobe.com) and click Sign In.  
 2. Sign in using the Sign-in Instructions below.  
 3. Click Install Creative Cloud App.  
 4. Double-click the installer file and follow the instructions.  
@@ -32,7 +32,7 @@ The goal of this assignment is to create an accessible PDF from an inaccessible 
 
 ## Instructions
 
-Download the [assignment file](HW1AccessibilitySyllabus.pdf) and open using Adobe Acrobat Pro
+Download the **[assignment file](../HW1/HW1_Syllabus.pdf)** and open using Adobe Acrobat Pro
 
 ### Check for Accessibility
 
