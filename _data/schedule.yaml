@@ -53,10 +53,10 @@
 
 - date: Wed Sep 3
   homework:
-    deadline: 'September 8 In-Class by 10:59 am'
+    deadline: 'September 8th by 10:59 am (In Class)'
     link: ''
     name: 'HW2: Assistive Technologies'
-    numDays: 2
+    numDays: 1
   lecture:
     link: ''
     name: 'Disability History - Legal + Social'
@@ -73,10 +73,10 @@
 
 - date: Mon Sep 8
   homework:
-    deadline: ''
+    deadline: 'September 17th, 11:59pm'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW3: Web Accessibility'
+    numDays: 2
   lecture:
     link: ''
     name: 'Assistive Technology'
@@ -129,8 +129,8 @@
   homework:
     deadline: ''
     link: ''
-    name: ''
-    numDays: 0
+    name: 'P0'
+    numDays: 2
   lecture:
     link: ''
     name: 'Focus: Visual Access'
