@@ -23,7 +23,7 @@ hide:
     <thead>
         <th><b>Date</b></th>
         <th><b>Lecture</b></th>
-        <th><b>Readings</b></th>
+        <th><b>Readings (</b><a href="readingreflections">Reading Reflection Instructions</a> )</th>
         <th><b>Assignments</b></th>
     </thead>
     <tbody>
