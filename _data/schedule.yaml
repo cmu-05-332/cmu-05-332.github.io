@@ -78,7 +78,7 @@
     name: 'HW3: Web Accessibility'
     numDays: 2
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1TQYAG-mVn81RF4bOnd1YGvhS7qMO4ethMqPMb71wYdg/edit?usp=sharing'
     name: 'Assistive Technology'
   readings:
     - { link: 'https://dl.acm.org/doi/pdf/10.1145/3234695.3236348', name: 'Bennett et al. 2018. Interdependence as a Frame for Assistive Technology Research and Design' }
