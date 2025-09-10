@@ -95,7 +95,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1aPqF1Zz_Ub4DeSOZp2BUYQx7QjpIpm5CvXdeEK1WVAY/edit?usp=sharing'
     name: 'Digital and Web Accessibility'
   readings:
     - { link: 'https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612', name: 'A Primer to Web Accessibility for Designers | by Nicholas Kramer' }
