@@ -118,7 +118,8 @@
     link: ''
     name: 'Design, Co-Design, and Participatory Design'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/authorize?N99925', name: 'Carrington et al. 2014 - Wearables and chairables: inclusive design of mobile input and output techniques for power wheelchair users'}
+    - { link: 'https://medium.com/@thestratosgroup/co-design-a-powerful-force-for-creativity-and-collaboration-bed1e0f13d46', name: 'Co-design: A Powerful Force for Creativity and Collaboration'}
   recitation:
     handout: ''
     name: ''
@@ -135,7 +136,8 @@
     link: ''
     name: 'Focus: Visual Access'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://www.ibm.com/history/chieko-asakawa ', name: 'Chieko Asakawa | IBM' }
+    - { link: 'https://www.youtube.com/watch?v=nUucN_X7x24', name: 'Watch: NavCog demonstration video' }
   recitation:
     handout: ''
     name: ''
@@ -152,7 +154,8 @@
     link: ''
     name: 'Focus: Auditory Access'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3512922', name: 'An Exploration of Captioning Practices and Challenges of Individual Content Creators on YouTube for People with Hearing Impairments' }
+    - { link: 'https://kmack3.github.io/Mack_and_Tian.pdf', name: 'Why Researchers Working with the Deaf Community Should Learn ASL' }
   recitation:
     handout: ''
     name: ''
