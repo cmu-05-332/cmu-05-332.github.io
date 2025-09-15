@@ -115,8 +115,8 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
-    name: 'Design, Co-Design, and Participatory Design'
+    link: 'https://docs.google.com/presentation/d/1MsbF1upSlrLbBdKwcD1gzkVXVJEsyEnp7fZQEnaIMXQ/edit?usp=sharing'
+    name: 'Co-Design, Participation, and Research Ethics'
   readings:
     - { link: 'https://dl.acm.org/authorize?N99925', name: 'Carrington et al. 2014 - Wearables and chairables: inclusive design of mobile input and output techniques for power wheelchair users'}
     - { link: 'https://medium.com/@thestratosgroup/co-design-a-powerful-force-for-creativity-and-collaboration-bed1e0f13d46', name: 'Co-design: A Powerful Force for Creativity and Collaboration'}
