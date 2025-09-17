@@ -130,10 +130,10 @@
   homework:
     deadline: ''
     link: ''
-    name: 'P0'
-    numDays: 2
+    name: ''
+    numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/16zcvxirJy3oOW7NaZQQWlUN03KwVZEg2WnBdWgAL6OQ/edit?usp=sharing'
     name: 'Focus: Visual Access'
   readings:
     - { link: 'https://www.ibm.com/history/chieko-asakawa ', name: 'Chieko Asakawa | IBM' }
@@ -148,8 +148,8 @@
   homework:
     deadline: ''
     link: ''
-    name: ''
-    numDays: 0
+    name: 'P0'
+    numDays: 2
   lecture:
     link: ''
     name: 'Focus: Auditory Access'
@@ -170,7 +170,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Focus: Motor Access'
   readings:
     - { link: '', name: '' }
   recitation:
@@ -187,7 +187,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Focus: Motor Access'
+    name: ''
   readings:
     - { link: '', name: '' }
   recitation:
