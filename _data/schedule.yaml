@@ -172,7 +172,8 @@
     link: ''
     name: 'Focus: Motor Access'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3517428.3544814', name: 'Freedom to choose: Input modality preferences of people with upper-body motor impairments for ADLs' }
+    - { link: 'https://www.wired.com/story/synchrons-brain-computer-interface-now-has-nvidias-ai/', name: 'WIRED: Synchrons BCI' }
   recitation:
     handout: ''
     name: ''
@@ -187,7 +188,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'P0 - Project Idea Pitches'
   readings:
     - { link: '', name: '' }
   recitation:
@@ -204,9 +205,10 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Focus: Learning, Neurodiversity, and Cognition'
+    name: 'Focus: Older Adults'
   readings:
-    - { link: '', name: '' }
+    - { link: '', name: 'Exploring the Accessibility and Appeal of Surface Computing for Older Adult Health Care Support' }
+    - { link: 'https://canvas.cmu.edu/courses/47948/files/folder/Readings?preview=13239474', name: 'The Harm in Conflating Aging with Accessibility' }
   recitation:
     handout: ''
     name: ''
@@ -221,7 +223,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Focus: Older Adults'
+    name: 'Focus: Learning, Neurodiversity, and Cognition'
   readings:
     - { link: '', name: '' }
   recitation:
@@ -511,6 +513,22 @@
   lecture:
     link: ''
     name: 'Final Project'
+  readings:
+    - { link: '', name: '' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: '' 
+- date: Wed Dec 8
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Final Project Presentations TBD'
   readings:
     - { link: '', name: '' }
   recitation:
