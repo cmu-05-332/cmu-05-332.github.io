@@ -151,7 +151,7 @@
     name: 'P0'
     numDays: 2
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1cx8Du0i6YZW9AUtbgd2jF5QDbPDrVbrViKQW-gaWuwk/edit?usp=sharing'
     name: 'Focus: Auditory Access'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/3512922', name: 'An Exploration of Captioning Practices and Challenges of Individual Content Creators on YouTube for People with Hearing Impairments' }
