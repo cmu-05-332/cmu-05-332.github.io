@@ -146,9 +146,9 @@
 
 - date: Mon Sep 22
   homework:
-    deadline: ''
-    link: ''
-    name: 'P0'
+    deadline: 'September 29th 11:00 am'
+    link: 'project/P0/'
+    name: 'P0 - Project Idea Pitches'
     numDays: 2
   lecture:
     link: 'https://docs.google.com/presentation/d/1cx8Du0i6YZW9AUtbgd2jF5QDbPDrVbrViKQW-gaWuwk/edit?usp=sharing'
