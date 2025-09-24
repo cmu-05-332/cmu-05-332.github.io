@@ -169,7 +169,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1zzzAETvHB6bDqi8QTbsDS0pTghYKZlPa1JOHvNt-1yY/edit?usp=sharing'
     name: 'Focus: Motor Access'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/3517428.3544814', name: 'Freedom to choose: Input modality preferences of people with upper-body motor impairments for ADLs' }
