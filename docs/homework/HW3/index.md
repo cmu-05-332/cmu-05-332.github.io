@@ -26,7 +26,7 @@ Below is a list of what you’ll need to do for this assignment. As your write-u
 
 ### Exploring Automatic Accessibility
 
-Before getting started in your manual evaluation of the accessibility of this page, use one of the many (free) accessibility evaluation tools to get a quick sense of obvious problems that should be fixed. There are many such tools, and you’re free to use whatever one you want, but one good option is [WAVE](http://wave.webaim.org/extension/).
+Before getting started in your manual evaluation of the accessibility of this page, use one of the many (free) accessibility evaluation tools to get a quick sense of obvious problems that should be fixed. There are many such tools, and you’re free to use whatever one you want, but one good option is [WAVE](http://wave.webaim.org/extension/). There are others so feel free to explore.
 
 Copy & paste the output from WAVE (or your preferred tool) into your lab notebook. Then write a short description of the main problems that the tool was able to discover.
 
@@ -36,15 +36,15 @@ To make the web page accessible, please pay attention to the following points. T
 
 Record in your lab notebook a description of each problem, your estimate of the severity of the problem, how you fixed it, and whether or not it was detected by the automatic accessibility evaluator you tried in the previous step. You might optionally also look up what guideline it breaks in [WCAG 2](https://www.w3.org/WAI/intro/wcag), and note the level of compliance it corresponds to (A, AA, AAA).
 
-1. [Headings and Landmarks](https://cmu-05-499.github.io/homework/HW3/#headings-and-landmarks)  
-2. [Good Alternative Text for Images](https://cmu-05-499.github.io/homework/HW3/#good-alternative-text-for-images)  
-3. [Form Labels](https://cmu-05-499.github.io/homework/HW3/#form-labels)  
-4. [Video Captions](https://cmu-05-499.github.io/homework/HW3/#video-captions)  
-5. [Audio Descriptions](https://cmu-05-499.github.io/homework/HW3/#audio-descriptions)  
-6. [Tab Order & Visible Focus](https://cmu-05-499.github.io/homework/HW3/#tab-order-and-visible-focus)  
-7. [Color Contrast](https://cmu-05-499.github.io/homework/HW3/#color-contrast)  
-8. [Keyboard Access](https://cmu-05-499.github.io/homework/HW3/#keyboard-access)  
-9. [Information Conveyed Only via Color](https://cmu-05-499.github.io/homework/HW3/#information-conveyed-only-via-color)
+1. [Headings and Landmarks](https://cmu-05-332.github.io/homework/HW3/#headings-and-landmarks)  
+2. [Good Alternative Text for Images](https://cmu-05-332.github.io/homework/HW3/#good-alternative-text-for-images)  
+3. [Form Labels](https://cmu-05-332.github.io/homework/HW3/#form-labels)  
+4. [Video Captions](https://cmu-05-332.github.io/homework/HW3/#video-captions)  
+5. [Audio Descriptions](https://cmu-05-332.github.io/homework/HW3/#audio-descriptions)  
+6. [Tab Order & Visible Focus](https://cmu-05-332.github.io/homework/HW3/#tab-order-and-visible-focus)  
+7. [Color Contrast](https://cmu-05-332.github.io/homework/HW3/#color-contrast)  
+8. [Keyboard Access](https://cmu-05-332.github.io/homework/HW3/#keyboard-access)  
+9. [Information Conveyed Only via Color](https://cmu-05-332.github.io/homework/HW3/#information-conveyed-only-via-color)
 
 #### Headings and Landmarks
 

@@ -74,11 +74,11 @@
 - date: Mon Sep 8
   homework:
     deadline: 'September 17th, 11:59pm'
-    link: ''
+    link: 'homework/HW3/'
     name: 'HW3: Web Accessibility'
     numDays: 2
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1TQYAG-mVn81RF4bOnd1YGvhS7qMO4ethMqPMb71wYdg/edit?usp=sharing'
     name: 'Assistive Technology'
   readings:
     - { link: 'https://dl.acm.org/doi/pdf/10.1145/3234695.3236348', name: 'Bennett et al. 2018. Interdependence as a Frame for Assistive Technology Research and Design' }
@@ -95,7 +95,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1aPqF1Zz_Ub4DeSOZp2BUYQx7QjpIpm5CvXdeEK1WVAY/edit?usp=sharing'
     name: 'Digital and Web Accessibility'
   readings:
     - { link: 'https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612', name: 'A Primer to Web Accessibility for Designers | by Nicholas Kramer' }
@@ -115,10 +115,11 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
-    name: 'Design, Co-Design, and Participatory Design'
+    link: 'https://docs.google.com/presentation/d/1MsbF1upSlrLbBdKwcD1gzkVXVJEsyEnp7fZQEnaIMXQ/edit?usp=sharing'
+    name: 'Co-Design, Participation, and Research Ethics'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/authorize?N99925', name: 'Carrington et al. 2014 - Wearables and chairables: inclusive design of mobile input and output techniques for power wheelchair users'}
+    - { link: 'https://medium.com/@thestratosgroup/co-design-a-powerful-force-for-creativity-and-collaboration-bed1e0f13d46', name: 'Co-design: A Powerful Force for Creativity and Collaboration'}
   recitation:
     handout: ''
     name: ''
@@ -129,13 +130,14 @@
   homework:
     deadline: ''
     link: ''
-    name: 'P0'
-    numDays: 2
+    name: ''
+    numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/16zcvxirJy3oOW7NaZQQWlUN03KwVZEg2WnBdWgAL6OQ/edit?usp=sharing'
     name: 'Focus: Visual Access'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://www.ibm.com/history/chieko-asakawa ', name: 'Chieko Asakawa | IBM' }
+    - { link: 'https://www.youtube.com/watch?v=nUucN_X7x24', name: 'Watch: NavCog demonstration video' }
   recitation:
     handout: ''
     name: ''
@@ -144,15 +146,16 @@
 
 - date: Mon Sep 22
   homework:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
+    deadline: 'September 29th 11:00 am'
+    link: 'project/P0/'
+    name: 'P0 - Project Idea Pitches'
+    numDays: 2
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1cx8Du0i6YZW9AUtbgd2jF5QDbPDrVbrViKQW-gaWuwk/edit?usp=sharing'
     name: 'Focus: Auditory Access'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3512922', name: 'An Exploration of Captioning Practices and Challenges of Individual Content Creators on YouTube for People with Hearing Impairments' }
+    - { link: 'https://kmack3.github.io/Mack_and_Tian.pdf', name: 'Why Researchers Working with the Deaf Community Should Learn ASL' }
   recitation:
     handout: ''
     name: ''
@@ -166,10 +169,11 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
-    name: ''
+    link: 'https://docs.google.com/presentation/d/1zzzAETvHB6bDqi8QTbsDS0pTghYKZlPa1JOHvNt-1yY/edit?usp=sharing'
+    name: 'Focus: Motor Access'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3517428.3544814', name: 'Freedom to choose: Input modality preferences of people with upper-body motor impairments for ADLs' }
+    - { link: 'https://www.wired.com/story/synchrons-brain-computer-interface-now-has-nvidias-ai/', name: 'WIRED: Synchrons BCI' }
   recitation:
     handout: ''
     name: ''
@@ -184,7 +188,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Focus: Motor Access'
+    name: 'P0 - Project Idea Pitches'
   readings:
     - { link: '', name: '' }
   recitation:
@@ -201,9 +205,10 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Focus: Learning, Neurodiversity, and Cognition'
+    name: 'Focus: Older Adults'
   readings:
-    - { link: '', name: '' }
+    - { link: '', name: 'Exploring the Accessibility and Appeal of Surface Computing for Older Adult Health Care Support' }
+    - { link: 'https://canvas.cmu.edu/courses/47948/files/folder/Readings?preview=13239474', name: 'The Harm in Conflating Aging with Accessibility' }
   recitation:
     handout: ''
     name: ''
@@ -218,7 +223,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Focus: Older Adults'
+    name: 'Focus: Learning, Neurodiversity, and Cognition'
   readings:
     - { link: '', name: '' }
   recitation:
@@ -508,6 +513,22 @@
   lecture:
     link: ''
     name: 'Final Project'
+  readings:
+    - { link: '', name: '' }
+  recitation:
+    handout: ''
+    name: ''
+    quiz: ''
+    slides: '' 
+- date: Wed Dec 8
+  homework:
+    deadline: ''
+    link: ''
+    name: ''
+    numDays: 0
+  lecture:
+    link: ''
+    name: 'Final Project Presentations TBD'
   readings:
     - { link: '', name: '' }
   recitation:

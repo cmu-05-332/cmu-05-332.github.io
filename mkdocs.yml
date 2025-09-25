@@ -77,12 +77,12 @@ nav:
               - 'homework/HW1/2_presentation.md'
     - Homework 2 Assistive Technology:
        - homework/HW2/index.md
-    #- Homework 3 Accessibility Evaluation:
-    #  - homework/HW3/index.md
-  #- Project:
-    #- project/index.md 
-    #- P0 Pre-Project Pitches:
-      #- project/P0/index.md
+    - Homework 3 Accessibility Evaluation:
+      - homework/HW3/index.md
+  - Project:
+    - project/index.md 
+    - P0 Pre-Project Pitches:
+      - project/P0/index.md
     #- P1 Group Formation and Project Scope:
       #- project/P1/index.md
   - Canvas: https://canvas.cmu.edu/courses/47948
