@@ -199,10 +199,10 @@
 
 - date: Wed Oct 1
   homework:
-    deadline: ''
+    deadline: 'October 8th'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'P1 and P2'
+    numDays: 3
   lecture:
     link: ''
     name: 'Focus: Older Adults'
