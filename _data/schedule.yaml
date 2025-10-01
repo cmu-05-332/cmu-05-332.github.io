@@ -204,7 +204,7 @@
     name: 'P1 and P2'
     numDays: 3
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1b86GjJNg4R-asWqBmrqQZuY3hbbsDyE8orXDZ6jM_rw/edit?usp=sharing'
     name: 'Focus: Older Adults'
   readings:
     - { link: 'https://canvas.cmu.edu/courses/47948/files/folder/Readings?preview=13239474', name: 'The Harm in Conflating Aging with Accessibility' }
