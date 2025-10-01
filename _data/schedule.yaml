@@ -207,7 +207,6 @@
     link: ''
     name: 'Focus: Older Adults'
   readings:
-    - { link: '', name: 'Exploring the Accessibility and Appeal of Surface Computing for Older Adult Health Care Support' }
     - { link: 'https://canvas.cmu.edu/courses/47948/files/folder/Readings?preview=13239474', name: 'The Harm in Conflating Aging with Accessibility' }
   recitation:
     handout: ''
