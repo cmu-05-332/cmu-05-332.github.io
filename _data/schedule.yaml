@@ -221,7 +221,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://drive.google.com/file/d/1stmfy2aSqCNYFOflgdcty09rtMynIiw5/view?usp=sharing'
     name: 'Focus: Learning, Neurodiversity, and Cognition w/ Guest: Joon Jang'
   readings:
     - { link: 'https://doi.org/10.1145/3491102.3517592', name: 'Spiel et al. 2022. ADHD and Technology Research – Investigated by Neurodivergent Readers' }
