@@ -225,7 +225,6 @@
     name: 'Focus: Learning, Neurodiversity, and Cognition w/ Guest: Joon Jang'
   readings:
     - { link: 'https://doi.org/10.1145/3491102.3517592', name: 'Spiel et al. 2022. ADHD and Technology Research – Investigated by Neurodivergent Readers' }
-    #- { link: 'https://doi.org/10.1145/3290605.3300528', name: '[Optional] Bennett et al. 2019.The Promise of Empathy: Design, Disability, and Knowing the “Other”' }
     - { link: 'https://doi.org/10.1145/3544548.3581480', name: '[Optional] Williams et al. 2023. Counterventions: a reparative reflection on interventionist HCI' }
   recitation:
     handout: ''
@@ -521,7 +520,7 @@
     name: ''
     quiz: ''
     slides: '' 
-- date: Wed Dec 8
+- date: Fri Dec 12
   homework:
     deadline: ''
     link: ''
