@@ -444,7 +444,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Hot Topic: ADL and IADLs for Accessibility'
   readings:
     - { link: '', name: '' }
   recitation:
@@ -461,7 +461,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Hot Topic: Medicine and Rehabilitation vs Living with AT'
+    name: ''
   readings:
     - { link: '', name: '' }
   recitation:
