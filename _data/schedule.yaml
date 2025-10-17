@@ -293,7 +293,8 @@
     link: ''
     name: 'Hot Topic: Accessibility and [Generative] AI'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3586183.3606735', name: 'GenAssist: Making image generation accessible' }
+    - { link: 'https://www.youtube.com/watch?v=9dRExJzyqxw', name: '[Watch] WorldScribe Video' }
   recitation:
     handout: ''
     name: ''
@@ -308,9 +309,9 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Hot Topic: Data and Disability'
+    name: 'Gen AI Tutorial'
   readings:
-    - { link: '', name: '' }
+    - { link: '', name: 'No Readings' }
   recitation:
     handout: ''
     name: ''
