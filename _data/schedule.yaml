@@ -290,7 +290,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1Dag-g8m1YJXd4FkdMNVKd0B6qPkjvJ8Xf_iBxqEc2yg/edit?usp=sharing'
     name: 'Hot Topic: Accessibility and [Generative] AI'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/3586183.3606735', name: 'GenAssist: Making image generation accessible' }
