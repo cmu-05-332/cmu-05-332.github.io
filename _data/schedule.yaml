@@ -285,10 +285,10 @@
 
 - date: Mon Oct 20
   homework:
-    deadline: ''
+    deadline: 'November 7th'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'P3: Needfinding'
+    numDays: 6
   lecture:
     link: 'https://docs.google.com/presentation/d/1Dag-g8m1YJXd4FkdMNVKd0B6qPkjvJ8Xf_iBxqEc2yg/edit?usp=sharing'
     name: 'Hot Topic: Accessibility and [Generative] AI'
@@ -362,7 +362,7 @@
     link: ''
     name: 'Hot Topic: Making, Physical Computing, and DIY'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://doi.org/10.1145/2049536.2049541', name: 'Hurst and Tobias 2011 - DIY AT' }
   recitation:
     handout: ''
     name: ''
@@ -388,10 +388,10 @@
 
 - date: Mon Nov 10
   homework:
-    deadline: ''
+    deadline: 'November 24th'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'P4: Prototyping'
+    numDays: 5
   lecture:
     link: ''
     name: 'Hot Topic: Adaptive Sports'
@@ -413,7 +413,7 @@
     link: ''
     name: 'Hot Topic: A11y and the "Global South"'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/doi/abs/10.1145/3313831.3376658', name: 'Barbareschi et al. 2020. The Social Network: How People with Visual Impairment use Mobile Phones in Kibera, Kenya' }
   recitation:
     handout: ''
     name: ''
@@ -513,23 +513,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Final Project'
-  readings:
-    - { link: '', name: '' }
-  recitation:
-    handout: ''
-    name: ''
-    quiz: ''
-    slides: '' 
-- date: Fri Dec 12
-  homework:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  lecture:
-    link: ''
-    name: 'Final Project Presentations TBD'
+    name: 'Final Project Presentations'
   readings:
     - { link: '', name: '' }
   recitation:
