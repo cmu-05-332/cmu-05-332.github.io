@@ -359,7 +359,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1Cr7qLG_tQUDcKvSj2h3ZXi4QvoiQAWtkJFd8gEs5Kxw/edit?usp=sharing'
     name: 'Hot Topic: Making, Physical Computing, and DIY'
   readings:
     - { link: 'https://doi.org/10.1145/2049536.2049541', name: 'Hurst and Tobias 2011 - DIY AT' }
@@ -379,7 +379,7 @@
     link: ''
     name: 'Hot Topic: Accessibility in Video Games and Play'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/doi/pdf/10.1145/2661334.2661377', name: 'Milne et al. 2014 - BraillePlay: Educational Smartphone Games for Blind Children' }
   recitation:
     handout: ''
     name: ''
