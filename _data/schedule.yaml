@@ -376,7 +376,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/11swZVw0OS9SJKoDt3vy2v_ESyxaUmV8RvYFgb6UBhkA/edit?usp=sharing'
     name: 'Hot Topic: Accessibility in Video Games and Play'
   readings:
     - { link: 'https://dl.acm.org/doi/pdf/10.1145/2661334.2661377', name: 'Milne et al. 2014 - BraillePlay: Educational Smartphone Games for Blind Children' }
