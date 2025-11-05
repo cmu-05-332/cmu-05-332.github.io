@@ -397,7 +397,7 @@
     name: 'Hot Topic: Adaptive Sports'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/3331067', name: 'Computing technologies to increase access to physical activity for people with visual impairments | XRDS: Crossroads, The ACM Magazine for Students' }
-    - { link: 'https://dl.acm.org/doi/10.1145/3441852.3471223', name: 'Khurana et al. 2021 Beyond Adaptive Sports' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3441852.3471223', name: '[Skim] Khurana et al. 2021 Beyond Adaptive Sports' }
   recitation:
     handout: ''
     name: ''
