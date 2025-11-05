@@ -200,7 +200,7 @@
 - date: Wed Oct 1
   homework:
     deadline: 'October 8th'
-    link: ''
+    link: 'project/P1/'
     name: 'P1 and P2'
     numDays: 3
   lecture:
@@ -286,7 +286,7 @@
 - date: Mon Oct 20
   homework:
     deadline: 'November 10th'
-    link: ''
+    link: 'project/P3/'
     name: 'P3: Needfinding'
     numDays: 6
   lecture:
@@ -396,7 +396,8 @@
     link: ''
     name: 'Hot Topic: Adaptive Sports'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3331067', name: 'Computing technologies to increase access to physical activity for people with visual impairments | XRDS: Crossroads, The ACM Magazine for Students' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3441852.3471223', name: 'Khurana et al. 2021 Beyond Adaptive Sports' }
   recitation:
     handout: ''
     name: ''
