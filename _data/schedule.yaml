@@ -431,8 +431,7 @@
     link: ''
     name: 'Hot Topic: A11y NOT at or FOR work'
   readings:
-    - { link: 'https://dl.acm.org/doi/10.1145/3663547.3746466', name: 'Zhang et al. 2025 - A Review of Music Technology for BLV People'}
-    - { link: 'https://canvas.cmu.edu/courses/47948/files/folder/Readings?preview=13521703', name: '[Optional] Payne and Hurst 2023 - "We Avoid PDFs": Improving Notation Access for Blind and Visually Impaired Musicians' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3708359.3712082', name: 'ArtInsight: Enabling AI-Powered Artwork Engagement for Mixed Visual-Ability Families' }
   recitation:
     handout: ''
     name: ''
