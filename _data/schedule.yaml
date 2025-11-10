@@ -393,7 +393,7 @@
     name: 'P4: Prototyping'
     numDays: 5
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1ydjPfo4s4OjRFMOvXiyWPe_obf1r9zaJMwko3i43RA8/edit?usp=sharing'
     name: 'Hot Topic: Adaptive Sports'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/3331067', name: 'Computing technologies to increase access to physical activity for people with visual impairments | XRDS: Crossroads, The ACM Magazine for Students' }
@@ -431,7 +431,8 @@
     link: ''
     name: 'Hot Topic: A11y NOT at or FOR work'
   readings:
-    - { link: '', name: '' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3663547.3746466', name: 'Zhang et al. 2025 - A Review of Music Technology for BLV People'}
+    - { link: 'https://canvas.cmu.edu/courses/47948/files/folder/Readings?preview=13521703', name: '[Optional] Payne and Hurst 2023 - "We Avoid PDFs": Improving Notation Access for Blind and Visually Impaired Musicians' }
   recitation:
     handout: ''
     name: ''
