@@ -342,7 +342,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://canvas.cmu.edu/courses/47948/files/folder/Guest%20Lectures?preview=13546278'
     name: 'Hot Topic: Transportation and Transit w/ Prof. Aaron Steinfeld'
   readings:
     - { link: 'https://www.youtube.com/watch?v=cdgQpa1pUUE', name: '[Watch] Self Driving Car Test' }
