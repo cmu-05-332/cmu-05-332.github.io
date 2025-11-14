@@ -389,7 +389,7 @@
 - date: Mon Nov 10
   homework:
     deadline: 'November 24th'
-    link: ''
+    link: 'project/P4/'
     name: 'P4: Prototyping'
     numDays: 5
   lecture:
@@ -492,8 +492,8 @@
 - date: Mon Dec 1
   homework:
     deadline: ''
-    link: ''
-    name: ''
+    link: 'project/P5/'
+    name: 'P5 - Final Deliverables'
     numDays: 0
   lecture:
     link: ''
