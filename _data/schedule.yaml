@@ -491,7 +491,7 @@
 
 - date: Mon Dec 1
   homework:
-    deadline: ''
+    deadline: 'Multiple Deadlines'
     link: 'project/P5/'
     name: 'P5 - Final Deliverables'
     numDays: 2
