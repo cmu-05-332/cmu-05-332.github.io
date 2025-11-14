@@ -494,7 +494,7 @@
     deadline: ''
     link: 'project/P5/'
     name: 'P5 - Final Deliverables'
-    numDays: 0
+    numDays: 2
   lecture:
     link: ''
     name: 'Final Project'
