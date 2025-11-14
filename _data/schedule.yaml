@@ -411,7 +411,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1XTLzVpnd5woBF7BKgttA6wRjoZNFBR_PZHeZ-BFl9gU/edit?usp=sharing'
     name: 'Hot Topic: A11y and the "Global South"'
   readings:
     - { link: 'https://dl.acm.org/doi/abs/10.1145/3313831.3376658', name: 'Barbareschi et al. 2020. The Social Network: How People with Visual Impairment use Mobile Phones in Kibera, Kenya' }
