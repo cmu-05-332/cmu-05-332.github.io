@@ -429,7 +429,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Hot Topic: A11y NOT at or FOR work'
+    name: 'Hot Topic: A11y NOT at or FOR Work'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/3708359.3712082', name: 'ArtInsight: Enabling AI-Powered Artwork Engagement for Mixed Visual-Ability Families' }
   recitation:
