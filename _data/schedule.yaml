@@ -428,8 +428,8 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
-    name: 'Hot Topic: A11y NOT at or FOR Work'
+    link: 'https://docs.google.com/presentation/d/1NPBjrrTmbHKCpX5NWmlmLnF6h4KFVvQJm3GYXm7_cSA/edit?usp=sharing'
+    name: 'Project Checkins - Non-Work A11y Topic Postponed'
   readings:
     - { link: 'https://dl.acm.org/doi/10.1145/3708359.3712082', name: 'ArtInsight: Enabling AI-Powered Artwork Engagement for Mixed Visual-Ability Families' }
   recitation:
