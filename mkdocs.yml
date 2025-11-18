@@ -83,8 +83,20 @@ nav:
     - project/index.md 
     - P0 Pre-Project Pitches:
       - project/P0/index.md
-    #- P1 Group Formation and Project Scope:
-      #- project/P1/index.md
+    - P1 Team Contract:
+      - project/P1/index.md
+    - P2 Group Project Proposal:
+      - project/P2/index.md
+    - P3 Needfinding Milestone:
+      - project/P3/index.md
+    - P4 Prototyping Milestone:
+      - project/P4/index.md
+    - P5 Final Deliverables:
+      - project/P5/index.md
+      - Parts: 
+              - 'project/P5/P5A.md'
+              - 'project/P5/P5B.md'
+              - 'project/P5/P5C.md'
   - Canvas: https://canvas.cmu.edu/courses/47948
   #- Slack: 
 

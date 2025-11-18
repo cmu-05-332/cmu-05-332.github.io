@@ -1,6 +1,6 @@
 # Project 0: Individual Project Idea Pitches
 
-# Learning Goals
+## Learning Goals
 
 * Brainstorm a project idea and present it to the class  
 * Identify potential teammates with similar interests
