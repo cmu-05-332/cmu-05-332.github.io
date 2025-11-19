@@ -445,7 +445,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'https://docs.google.com/presentation/d/1KXvdl9kK7Et2PFbCFuRdMaAnVeo1W29jZPXZlwxoc_s/edit?usp=sharing'
     name: 'Hot Topic: ADL and IADLs for Accessibility'
   readings:
     - { link: 'https://dl.acm.org/doi/pdf/10.1145/1358628.1358911', name: 'The Georgia Tech Aware Home' }
