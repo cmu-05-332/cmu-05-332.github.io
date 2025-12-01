@@ -496,8 +496,8 @@
     name: 'P5 - Final Deliverables'
     numDays: 2
   lecture:
-    link: ''
-    name: 'Final Project'
+    link: 'https://docs.google.com/presentation/d/1BuCYqdGceXFaeKVPgk-PTr3CMf03aRn6MwloRLpypjU/edit?usp=sharing'
+    name: 'Course Wrap-Up and Final Project Workshop'
   readings:
     - { link: '', name: '' }
   recitation:
